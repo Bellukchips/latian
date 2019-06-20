@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "139977042816",
+    "firebase_url": "https://signintest-5ee53.firebaseio.com",
+    "project_id": "signintest-5ee53",
+    "storage_bucket": "signintest-5ee53.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:139977042816:android:aa722e44d083a5ce",
+        "android_client_info": {
+          "package_name": "com.app.signintest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "139977042816-pp0m58okc2hsinsqi080gdhepj452a1e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.signintest",
+            "certificate_hash": "e13cd2bf5b962b32c39510f10fe3fc00644d306b"
+          }
+        },
+        {
+          "client_id": "139977042816-2ej5paspvflvi2p3iehlhkc88r1ua895.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD21pcy1dszcA-3-J9TmlmnabseubPKfcM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "139977042816-2ej5paspvflvi2p3iehlhkc88r1ua895.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
